@@ -9,8 +9,7 @@ SuikaRyp uses a **manifest** model — one URL gives you the whole repo's worth 
 1. Open the app
 2. **Settings → Sources → Add repo**
 3. Paste the manifest URL:
-   ```
-   https://raw.githubusercontent.com/<your-github-username>/suikaryp-providers/main/index.json
+   ```https://raw.githubusercontent.com/SuikaRyp/SuikaMovieProvider/refs/heads/main/index.json
    ```
 4. The repo appears with every source listed
 5. Tap **Install** next to the ones you want
