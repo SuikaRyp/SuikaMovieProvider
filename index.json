@@ -85,7 +85,7 @@
     {
       "id": "Otaku",
       "name": "OtakuNime",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "type": "anime",
       "lang": "zh",
       "file": "providers/otaku.js",
