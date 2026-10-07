@@ -1,0 +1,96 @@
+{
+  "name": "SuikaRyp Providers",
+  "description": "Streaming sources for the SuikaRyp app. Maintained by Suika.",
+  "sources": [
+    {
+      "id": "anikoto",
+      "name": "AniKoto",
+      "version": "1.0.8",
+      "type": "anime",
+      "lang": "en",
+      "file": "providers/anikoto.js",
+      "logo": "icons/anikoto.png",
+      "nsfw": false
+    },
+    {
+      "id": "fourkhdhub",
+      "name": "4K HDHub",
+      "version": "1.0.6",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/fourkhdhub.js",
+      "logo": "icons/fourkhdhub.png",
+      "nsfw": false
+    },
+    {
+      "id": "uhdmovies",
+      "name": "UHD Movies",
+      "version": "1.0.3",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/uhdmovies.js",
+      "logo": "icons/uhdmovies.png",
+      "nsfw": false
+    },
+    {
+      "id": "hdhub4u",
+      "name": "HDHub4u",
+      "version": "1.2.4",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/hdhub4u.js",
+      "logo": "icons/hdhub4u.png",
+      "nsfw": false
+    },
+    {
+      "id": "hianime",
+      "name": "HiAnime",
+      "version": "1.2.2",
+      "type": "anime",
+      "lang": "en",
+      "file": "providers/hianime.js",
+      "logo": "icons/hianime.png",
+      "nsfw": false
+    },
+    {
+      "id": "vegamovies",
+      "name": "VegaMovies",
+      "version": "1.0.4",
+      "type": "movie",
+      "lang": "hi",
+      "file": "providers/vegamovies.js",
+      "logo": "icons/vegamovies.png",
+      "nsfw": false
+    },
+    {
+      "id": "multimovies",
+      "name": "MultiMovies",
+      "version": "1.0.3",
+      "type": "movie",
+      "lang": "hi",
+      "file": "providers/multimovies.js",
+      "logo": "icons/multimovies.png",
+      "nsfw": false
+    },
+    {
+      "id": "animecube",
+      "name": "AnimeCube",
+      "version": "1.0.5",
+      "type": "anime",
+      "lang": "zh",
+      "file": "providers/animecube.js",
+      "logo": "icons/animecube.png",
+      "nsfw": false
+    },
+    {
+      "id": "torbox",
+      "name": "TorBox",
+      "version": "1.0.0",
+      "type": "movie",
+      "lang": "en",
+      "file": "providers/torbox.js",
+      "logo": "icons/torbox.png",
+      "nsfw": false
+    }
+  ]
+}
