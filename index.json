@@ -83,6 +83,16 @@
       "nsfw": false
     },
     {
+      "id": "Otaku",
+      "name": "OtakuNime",
+      "version": "1.0.7",
+      "type": "anime",
+      "lang": "zh",
+      "file": "providers/otaku.js",
+      "logo": "icons/otaku.png",
+      "nsfw": false
+    },
+    {
       "id": "torbox",
       "name": "TorBox",
       "version": "1.0.0",
