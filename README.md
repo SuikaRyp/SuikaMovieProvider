@@ -10,7 +10,7 @@ SuikaRyp uses a **manifest** model — one URL gives you the whole repo's worth 
 2. **Settings → Sources → Add repo**
 3. Paste the manifest URL:
    ```
-   https://raw.githubusercontent.com/SuikaRyp/SuikaMovieProvider/refs/heads/main/index.json
+   https://raw.githubusercontent.com/<your-github-username>/suikaryp-providers/main/index.json
    ```
 4. The repo appears with every source listed
 5. Tap **Install** next to the ones you want
@@ -32,6 +32,7 @@ One manifest = many sources. This default repo is added on first launch, so user
 | MoviesDrive | Movie / Series | Movies and series, WEB-DL releases. |
 | MultiMovies | Movie / Series | Streaming (HLS) for movies and series; series availability varies by title. |
 | TorBox | Movie / Series | Debrid via Torrentio discovery + TorBox API. Requires your TorBox API key. Optional: **web streaming (HLS)** for Apple TV (TorBox web-streaming / Pro), Torrentio sort/limit, max candidates, cached-only. |
+| Komiku | Komik (Manga / Manhwa / Manhua) | Komik bahasa Indonesia. Chapter muncul sebagai episode; tiap halaman gambar dikembalikan sebagai satu sumber (`container: "image"`). |
 
 Availability depends on each site staying up; sources are updated as sites change.
 

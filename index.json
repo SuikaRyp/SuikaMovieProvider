@@ -101,6 +101,16 @@
       "file": "providers/torbox.js",
       "logo": "icons/torbox.png",
       "nsfw": false
+    },
+    {
+      "id": "komiku",
+      "name": "Komiku",
+      "version": "1.0.0",
+      "type": "manga",
+      "lang": "id",
+      "file": "providers/komiku.js",
+      "logo": "icons/komiku.png",
+      "nsfw": false
     }
   ]
 }
